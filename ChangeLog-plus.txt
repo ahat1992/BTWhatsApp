@@ -61,5 +61,5 @@
 <li> Fixed Hidden Group Opening from Groups in Common</li>
 <li> Many More Fixes</li>
 
-","url":"http://x.co/BTWhatsAp"
+","url":"https://btwahtsapp.blogspot.com/p/blog-page_42.html"
 } 
